@@ -217,6 +217,4 @@ public class GameGUI {
 
         frame.setVisible(true);
     }
-}git add Inventory.java Hint.java Score.java GameGUI.java
-git commit -m "Added inventory score hint and GUI"
-git push origin main
+}
